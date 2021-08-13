@@ -15,3 +15,4 @@ washington.csv
 
 ### Credits
 https://git-scm.com
+https://www.atlassian.com/git/tutorials/setting-up-a-repository
